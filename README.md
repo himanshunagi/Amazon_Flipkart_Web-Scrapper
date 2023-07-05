@@ -1,5 +1,3 @@
-# Amazon_Flipkart_Web-Scrapper
-
 I created a Python program and an Excel spreadsheet to scrape data from Amazon and Flipkart. In the Python code, I have implemented a functionality where you can specify an expected price for a product. If the product goes on sale and the price drops below your expected price, you will receive a notification. On the other hand, in the Excel spreadsheet, I have used VBA code to extract data from Amazon and Flipkart based on the product keywords you provide, allowing you to compare prices and decide where to make the purchase.
 
 # Amazon Web Scrapping:
